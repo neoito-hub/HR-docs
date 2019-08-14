@@ -1,3 +1,0 @@
-# hrdocs
-
-Addition
