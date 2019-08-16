@@ -20,3 +20,6 @@ The purpose of leave policy for employees is to lay guidelines regarding when to
 -It is mandatory for an employee to utilize 17 leaves during an year. It should be 15 Casual leave and 2 optional leave. It is meant to fulfill the objective of maintaining the work life balance.
 -Leave without approval will be considered as Leave without Pay.
 -Absence during notice period leads to the extension of the notice period and loss of pay.
+-Maternity benefit will be 26 weeks of which not more than 8 weeks shall precede the date of her expected delivery.
+-Paternity Leave- 3 days (2 occasions) during the confinement of spouse.
+-Employees in the regular rolls are eligible for C-Off, if you work on weekly off/ national holiday as per the request from the company side.

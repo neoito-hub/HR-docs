@@ -1,4 +1,4 @@
 # Summary
 
-- [About Us](./about_us.md)
+- [Leave policy](./Leave_policy.md)
 - [Contact](./contact.md)
