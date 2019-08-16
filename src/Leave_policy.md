@@ -19,4 +19,4 @@ The purpose of leave policy for employees is to lay guidelines regarding when to
 -Paid leaves are not encashed during termination and are not credited during the month of termination OR the month(s) of notice period.
 -It is mandatory for an employee to utilize 17 leaves during an year. It should be 15 Casual leave and 2 optional leave. It is meant to fulfill the objective of maintaining the work life balance.
 -Leave without approval will be considered as Leave without Pay.
--Absence during notice period will leads to the extension of the notice period and loss of pay.
+-Absence during notice period leads to the extension of the notice period and loss of pay.
