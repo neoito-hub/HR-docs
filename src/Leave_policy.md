@@ -6,9 +6,9 @@ The purpose of leave policy for employees is to lay guidelines regarding when to
 For the purpose of leave, “year” shall mean the calendar year commencing from 1st January to 31st December.
 
 ## Paid Leave
-Paid leave" is any kind of time that is taken off of work WITH pay. 
+Paid leave is any kind of time that is taken off of work WITH pay. 
 ## Maternity Leave
-A period of approved absence for a female employee granted for the purpose of giving birth and taking care of infant children
+A period of approved absence for a female employee granted for the purpose of giving birth and taking care of infant.
 ## Paternity Leave
 A period of absence from work granted to a father after or shortly before the birth of his child.
 ## Compensatory Leave Off
@@ -32,11 +32,7 @@ Compensatory leave off is taken as a leave, for working on any of the national/f
  ### Paid Leave 
 - Two paid leaves will be credited at the beginning of every month. In addition to two paid leaves, one extra bonus paid leave will also get credited in the month of January.
 - A maximum of 25 paid leaves can be accumulated in a calendar year.
-- A maximum of 12 leaves will be carried forward to next calendar year. Remaining leaves will be encashed.
-- Company will be releasing holiday calendar at the beginning of each year.
-- Company will be providing a set of optional holidays for each calendar year which may vary yearly.
-- All employees have privilege to take a maximum of 2 optional holidays from the set of optional holidays provided in the holiday calendar in a calendar year.
- 
+- A maximum of 12 leaves will be carried forward to next calendar year. Remaining leaves will be encashed. 
  ### Maternity Leave
  - All confirmed female employees shall be entitled for Maternity leave with full pay for a period of continuous 26 weeks for each pregnancy up to a maximum of 2 confinements.
  - The Company provides the provision "work from home" for women, which may be exercised after the expiry of the 26 weeks' leave period. Depending upon the nature of work, women employees may be able to avail this benefit on terms that are mutually agreed with the employer.
