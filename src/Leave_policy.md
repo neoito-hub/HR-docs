@@ -34,12 +34,12 @@ Compensatory leave off is taken as a leave, for working on any of the national/f
 - A maximum of 25 paid leaves can be accumulated in a calendar year.
 - A maximum of 12 leaves will be carried forward to next calendar year; remaining leaves will be encashed. 
  ### Maternity Leave
- - All female employees shall be entitled for Maternity leave with full pay for a period of continuous 26 weeks for each pregnancy up to a maximum of 2 confinements.
- - The Company provides the provision "work from home" for women, which may be exercised after the expiry of the 26 weeks' leave period. Depending upon the nature of work, women employees may be able to avail this benefit on terms that are mutually agreed with the employer.
+ - All female employees shall be entitled for maternity leave with full pay, for a period of continuous 26 weeks for each pregnancy up to a maximum of 2 confinements.
+ - The Company provides the provision "work from home" for women, which may be exercised after the expiry of the 26 weeks leave period. Depending upon the nature of work, women employees may be able to avail this benefit on terms that are mutually agreed with the employer.
 - The woman needs to have worked for the Company for at least 80 days in the 12 months preceding the date of her expected delivery.
 - This benefit could be availed by women for a period extending up to a maximum of 8 weeks before the expected delivery date and the remaining time can be availed post childbirth. 
 - For women who are expecting after having 2 children, the duration of paid maternity leave shall be 12 weeks with full wages (i.e., 6 weeks pre and 6 weeks post expected date of delivery).
-- A women who legally adopts a child, below the age of three months or a commissioning mother or a surrogate mother, shall be entitled to maternity benefit for a period of 12 weeks from the date child is handed over to the adopting mother or the commissioning mother, as the case may be. These leaves can be availed on when the child has actually started living with the parents.
+- A women who legally adopts a child, below the age of three months or a commissioning mother, or a surrogate mother, shall be entitled to maternity benefit for a period of 12 weeks from the date child is handed over to the adopting mother or the commissioning mother, as the case may be. These leaves can be availed on when the child has actually started living with the parents.
 
 ### Paternity Leave
 - All regular male employees are eligible for paternity Leave.
@@ -48,7 +48,7 @@ Compensatory leave off is taken as a leave, for working on any of the national/f
 - In case of adoption or surrogacy, employees can take leave upto 5 days and leave can be taken only if child is actually living with the parents.
 
  ### Compensatory Leave Off
-- An employee is eligible for compensatory leave off when he/she has worked on on any of the national/festival/declared off day after getting approval from manager. 
+- An employee is eligible for compensatory leave off, when he/she has worked on on any of the national/festival/declared off day after getting approval from manager. 
 - Compensatory leave off will be added along with balance leaves available for the employee.
 
 ### Leave Encashment
@@ -56,7 +56,7 @@ Compensatory leave off is taken as a leave, for working on any of the national/f
 - Leave encashing are only eligible for the employees who have a leave balance of more than 12 at the end of calendar year. 
 - Encashment is compulsory for all eligible employees per calendar year
 - Those with a leave balance of more than 12, will be paid in cash for the number of days remaining after reducing 12 days. 
-- 2% of the basic salary(excluding bonus pay) to a maximum of Rs 1,000/- whichever is lower will be paid to an employee for each leave that can be encashed.
+- 2% of the basic monthly pay(excluding bonus pay) to a maximum of Rs 1,000/- whichever is lower will be paid to an employee for each leave that can be encashed.
 - Once an employee enters in to notice period, all leave balances are revoked and they become ineligible for any leave encashment for the respective calendar year.
 - Once an employee is terminated, all leave balances are revoked and they become ineligible for any leave encashment for the respective calendar year. 
 
