@@ -1,12 +1,12 @@
 # Holiday Policy
 ## Objective 
-- Our Company holiday policy outlines the days our company acknowledges as holidays and provides relevant guidelines for holiday pay.
+- Our Company holiday policy outlines the days, our Company acknowledges as holidays and provides relevant guidelines for holiday pay.
 ## Policy and Procedures
-- Saturdays and sundays are weekly off for all employees, where office is open on all Saturdays.
+- Saturdays and Sundays are weekly off for all employees, where office is open on all Saturdays.
 - Company will be releasing holiday calendar at the beginning of each year.
 - Company will be providing a set of holidays for each calendar year and these are mandatory holidays to all employees.
 - In special cases like harthal, Company reserves the right to decide whether its a holiday or work from home or a normal working day.
-- If an employee works on any of the national/festival/declared off day after getting approval from the manager, Compensatory leave off will be added along with balance leaves.
+- If an employee works on any of the national/festival/declared off day after getting approval from the manager, Compensatory leave off will be added along with balance paid leave.
 ### List of Holidays on Non-Working Days in the calender year 2019-2020
 - 26-Jan-19 Sunday Republic Day
 - 11-Aug-19 Sunday Bakrid
