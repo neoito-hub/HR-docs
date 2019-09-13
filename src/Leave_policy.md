@@ -11,6 +11,8 @@ Paid leave is any kind of time that is taken off of work WITH pay.
 A period of approved absence for a female employee granted for the purpose of giving birth and taking care of infant.
 ## Paternity Leave
 A period of absence from work granted to a father after or shortly before the birth of his child.
+## Bereavement Leave
+-  Bereavement leave is paid leave which is available to an employee at the time of death or funeral of a member of the employee’s family.
 ## Compensatory Leave Off
 Compensatory leave off is taken as a leave, for working on any of the national/festival/declared off day as per Company's request.
 
@@ -30,7 +32,7 @@ Compensatory leave off is taken as a leave, for working on any of the national/f
 - Company reserves the right, at its discretion, to change, modify, suspend, or discontinue temporarily or permanently, all or part of the policy at any time. 
 
  ### Paid Leave 
-- Two paid leaves will be credited at the beginning of every month. In addition to two paid leaves, one extra bonus paid leave will also get credited in the month of January.
+- Two paid leaves will be credited to each employee at the beginning of every month. In addition to two paid leaves, one extra bonus paid leave will also get credited in the month of January.
 - A maximum of 25 paid leaves can be accumulated in a calendar year.
 - A maximum of 12 leaves will be carried forward to next calendar year; remaining leaves will be encashed. 
  ### Maternity Leave
@@ -46,6 +48,9 @@ Compensatory leave off is taken as a leave, for working on any of the national/f
 - A maximum of 5 continous days of paternity leave can be availed by an employee during the confinement of spouse.
 - The paternity leave must be taken within 15 days of child birth, failing which the leaves will lapse.
 - In case of adoption or surrogacy, employees can take leave upto 5 days and leave can be taken only if child is actually living with the parents.
+
+### Bereavement Leave
+- A maximum of 3 days can be availed by the employee for the death of the employee’s immediate family. In addition to that, an employee shall be entitled to use two 2 days of sick leave as bereavement leave.
 
  ### Compensatory Leave Off
 - An employee is eligible for compensatory leave off, when he/she has worked on on any of the national/festival/declared off day after getting approval from manager. 
@@ -64,5 +69,5 @@ Compensatory leave off is taken as a leave, for working on any of the national/f
 - Employees are not allowed to take any leaves during notice period.
 - In case of any emergency, employees shall take leave after getting approval from their manager.
 -  All leaves taken during notice period will be considered under loss of pay.
-- Taking excess leaves during notice period will result in disciplinary action such as non issual of experience certificate, relieving certificate, and conduct certificate. Company has the right to take any severe disciplinary actions during this course.
+- Taking excess leaves during notice period will result in disciplinary action. Company has the right to take any severe disciplinary actions during this course.
 - Once an employee enters in to notice period, all leave balances are revoked and they become ineligible for any leave encashment for the respective calendar year.
