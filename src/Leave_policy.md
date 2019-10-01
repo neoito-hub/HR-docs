@@ -32,7 +32,9 @@ Compensatory leave off is taken as a leave, for working on any of the national/f
 - Company reserves the right, at its discretion, to change, modify, suspend, or discontinue temporarily or permanently, all or part of the policy at any time. 
 
  ### Paid Leave 
-- Two paid leaves will be credited to each employee at the beginning of every month. In addition to two paid leaves, one extra bonus paid leave will also get credited in the month of January.
+- Two paid leaves will be credited to each employee at the beginning of every month. In addition to two paid leaves, one extra bonus of one paid leave will also get credited in the month of January.
+- A new joining employee who have minimum of 20 working days in the joining month will be provided 2 paid leaves and employees who have minimum of 12 working days in the joining month will be allocated with one paid leave.
+- For a new joining employee, who have more than 2 months of services in the calender year January to December will be provided with one bonus leave.
 - A maximum of 25 paid leaves can be accumulated in a calendar year.
 - A maximum of 12 leaves will be carried forward to next calendar year; remaining leaves will be encashed. 
  ### Maternity Leave
