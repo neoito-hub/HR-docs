@@ -1,3 +1,0 @@
-# Contact
-
-Addign silly content
