@@ -1,3 +1,5 @@
+#Neoito Technologies Private Limited.
+
 # Leave Policy
 ## Objective
  The objective of the leave policy is to give provision to the employees to balance their personal as well as professional life.This leave policy is also meant to fulfill the statutory requirement regarding leave and holidays. 
