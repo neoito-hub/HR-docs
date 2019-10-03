@@ -1,0 +1,295 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Leave policy - HR Policies</title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body class="light">
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { } 
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            document.body.className = theme;
+            document.querySelector('html').className = theme + ' js';
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <ol class="chapter"><li><a href="Leave_policy.html" class="active"><strong aria-hidden="true">1.</strong> Leave policy</a></li><li><a href="Holiday_policy.html"><strong aria-hidden="true">2.</strong> Holiday policy</a></li><li><a href="WFH_policy.html"><strong aria-hidden="true">3.</strong> Work From Home policy</a></li><li><a href="contact.html"><strong aria-hidden="true">4.</strong> Contact</a></li></ol>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar" class="menu-bar">
+                    <div id="menu-bar-sticky-container">
+                        <div class="left-buttons">
+                            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                            <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                                <i class="fa fa-paint-brush"></i>
+                            </button>
+                            <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                                <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            </ul>
+                            
+                            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            
+                        </div>
+
+                        <h1 class="menu-title">HR Policies</h1> 
+
+                        <div class="right-buttons">
+                            <a href="print.html" title="Print this book" aria-label="Print this book">
+                                <i id="print-button" class="fa fa-print"></i>
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <a class="header" href="#leave-policy" id="leave-policy"><h1>Leave Policy</h1></a>
+<a class="header" href="#objective" id="objective"><h2>Objective</h2></a>
+<p>The objective of the leave policy is to give provision to the employees to balance their personal as well as professional life.This leave policy is also meant to fulfill the statutory requirement regarding leave and holidays.</p>
+<a class="header" href="#purpose" id="purpose"><h2>Purpose</h2></a>
+<p>The purpose of leave policy for employees is to lay guidelines regarding when to avail leave and the process to take leave with pay, leave without pay, leave of absence and so on.
+For the purpose of leave, “year” shall mean the calendar year commencing from 1st January to 31st December.</p>
+<a class="header" href="#paid-leave" id="paid-leave"><h2>Paid Leave</h2></a>
+<p>Paid leave is any kind of time that is taken off of work WITH pay.</p>
+<a class="header" href="#maternity-leave" id="maternity-leave"><h2>Maternity Leave</h2></a>
+<p>A period of approved absence for a female employee granted for the purpose of giving birth and taking care of infant.</p>
+<a class="header" href="#paternity-leave" id="paternity-leave"><h2>Paternity Leave</h2></a>
+<p>A period of absence from work granted to a father after or shortly before the birth of his child.</p>
+<a class="header" href="#bereavement-leave" id="bereavement-leave"><h2>Bereavement Leave</h2></a>
+<ul>
+<li>Bereavement leave is paid leave which is available to an employee at the time of death or funeral of a member of the employee’s family.</li>
+</ul>
+<a class="header" href="#compensatory-leave-off" id="compensatory-leave-off"><h2>Compensatory Leave Off</h2></a>
+<p>Compensatory leave off is taken as a leave, for working on any of the national/festival/declared off day as per Company's request.</p>
+<a class="header" href="#policy-and-procedures" id="policy-and-procedures"><h2>Policy and Procedures</h2></a>
+<ul>
+<li>Leave cannot be claimed as a matter of right. Any kind of leave can be granted or refused depending upon the business demands.</li>
+<li>The calendar year for leave is from January to December.</li>
+<li>In case of emergency, when leave cannot be applied in advance, telephonic intimation to the reporting manager should be done.</li>
+<li>Leaves will be credited to employees account at the beginning of each month.</li>
+<li>An employee can avail paid leave, depending upon the leave balance available to employee, also unpaid leave can be availed when leave balance is exhausted and employee is in need of leave on approval from manager.</li>
+<li>If an employee is absent continuously for 5 days beyond sanctioned leave, with no information will lead to immediate termination without any notice.</li>
+<li>In case of prolonged illness or leave of absence from work, an employee is suppose to inform the reporting manager at regular interval about their condition and most probable date of return. In absence of any communication from employee, serious action can be taken by the Company.</li>
+<li>Leave without approval will be considered as leave without pay and will further lead to disciplinary actions.</li>
+<li>If an employee is participating in any events on behalf of Company, after getting approval from manager that wouldn’t be marked as a leave.</li>
+<li>In case of planned leave, it is employee responsibility to apply for leaves in 3 weeks advance.</li>
+<li>If an employee have the adequate leave balance, Employees are allowed to take planned leaves not more than 15 consecutive day with prior notice to the reporting manager.</li>
+<li>In case of any medical emergency, leaves or work from home shall be provided after getting approval from the manager.</li>
+<li>Company reserves the right, at its discretion, to change, modify, suspend, or discontinue temporarily or permanently, all or part of the policy at any time.</li>
+</ul>
+<a class="header" href="#paid-leave-1" id="paid-leave-1"><h3>Paid Leave</h3></a>
+<ul>
+<li>Two paid leaves will be credited to each employee at the beginning of every month. In addition to two paid leaves, one extra bonus of one paid leave will also get credited in the month of January.</li>
+<li>A new joining employee who have minimum of 20 working days in the joining month will be provided 2 paid leaves and employees who have minimum of 12 working days in the joining month will be allocated with one paid leave.</li>
+<li>For a new joining employee, who have more than 2 months of services in the calender year January to December will be provided with one bonus leave.</li>
+<li>A maximum of 25 paid leaves can be accumulated in a calendar year.</li>
+<li>A maximum of 12 leaves will be carried forward to next calendar year; remaining leaves will be encashed.</li>
+</ul>
+<a class="header" href="#maternity-leave-1" id="maternity-leave-1"><h3>Maternity Leave</h3></a>
+<ul>
+<li>All female employees shall be entitled for maternity leave with full pay, for a period of continuous 26 weeks for each pregnancy up to a maximum of 2 confinements.</li>
+<li>The Company provides the provision &quot;work from home&quot; for women, which may be exercised after the expiry of the 26 weeks leave period. Depending upon the nature of work, women employees may be able to avail this benefit on terms that are mutually agreed with the employer.</li>
+<li>The woman needs to have worked for the Company for at least 80 days in the 12 months preceding the date of her expected delivery.</li>
+<li>This benefit could be availed by women for a period extending up to a maximum of 8 weeks before the expected delivery date and the remaining time can be availed post childbirth.</li>
+<li>For women who are expecting after having 2 children, the duration of paid maternity leave shall be 12 weeks with full wages (i.e., 6 weeks pre and 6 weeks post expected date of delivery).</li>
+<li>A women who legally adopts a child, below the age of three months or a commissioning mother, or a surrogate mother, shall be entitled to maternity benefit for a period of 12 weeks from the date child is handed over to the adopting mother or the commissioning mother, as the case may be. These leaves can be availed on when the child has actually started living with the parents.</li>
+</ul>
+<a class="header" href="#paternity-leave-1" id="paternity-leave-1"><h3>Paternity Leave</h3></a>
+<ul>
+<li>All regular male employees are eligible for paternity Leave.</li>
+<li>A maximum of 5 continous days of paternity leave can be availed by an employee during the confinement of spouse.</li>
+<li>The paternity leave must be taken within 15 days of child birth, failing which the leaves will lapse.</li>
+<li>In case of adoption or surrogacy, employees can take leave upto 5 days and leave can be taken only if child is actually living with the parents.</li>
+</ul>
+<a class="header" href="#bereavement-leave-1" id="bereavement-leave-1"><h3>Bereavement Leave</h3></a>
+<ul>
+<li>A maximum of 3 days can be availed by the employee for the death of the employee’s immediate family. In addition to that, an employee shall be entitled to use two 2 days of sick leave as bereavement leave.</li>
+</ul>
+<a class="header" href="#compensatory-leave-off-1" id="compensatory-leave-off-1"><h3>Compensatory Leave Off</h3></a>
+<ul>
+<li>An employee is eligible for compensatory leave off, when he/she has worked on on any of the national/festival/declared off day after getting approval from manager.</li>
+<li>Compensatory leave off will be added along with balance leaves available for the employee.</li>
+</ul>
+<a class="header" href="#leave-encashment" id="leave-encashment"><h3>Leave Encashment</h3></a>
+<ul>
+<li>Leave balance is encashed at the end of every calendar year.</li>
+<li>Leave encashing are only eligible for the employees who have a leave balance of more than 12 at the end of calendar year.</li>
+<li>Encashment is compulsory for all eligible employees per calendar year</li>
+<li>Those with a leave balance of more than 12, will be paid in cash for the number of days remaining after reducing 12 days.</li>
+<li>2% of the basic monthly pay(excluding bonus pay) to a maximum of Rs 1,000/- whichever is lower will be paid to an employee for each leave that can be encashed.</li>
+<li>Once an employee enters in to notice period, all leave balances are revoked and they become ineligible for any leave encashment for the respective calendar year.</li>
+<li>Once an employee is terminated, all leave balances are revoked and they become ineligible for any leave encashment for the respective calendar year.</li>
+</ul>
+<a class="header" href="#leaves-during-notice-period" id="leaves-during-notice-period"><h3>Leaves during notice period</h3></a>
+<ul>
+<li>Employees are not allowed to take any leaves during notice period.</li>
+<li>In case of any emergency, employees shall take leave after getting approval from their manager.</li>
+<li>All leaves taken during notice period will be considered under loss of pay.</li>
+<li>Taking excess leaves during notice period will result in disciplinary action. Company has the right to take any severe disciplinary actions during this course.</li>
+<li>Once an employee enters in to notice period, all leave balances are revoked and they become ineligible for any leave encashment for the respective calendar year.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+
+                        
+                            <a rel="next" href="Holiday_policy.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+
+                
+                    <a href="Holiday_policy.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3001");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload(true); // force reload from server (not from cache)
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+        
+
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
