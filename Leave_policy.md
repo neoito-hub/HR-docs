@@ -1,10 +1,10 @@
-# Leave Policy
+#Neoito Techologies Private Limited
+#Leave Policy
 ## Objective
  The objective of the leave policy is to give provision to the employees to balance their personal as well as professional life.This leave policy is also meant to fulfill the statutory requirement regarding leave and holidays. 
 ## Purpose
 The purpose of leave policy for employees is to lay guidelines regarding when to avail leave and the process to take leave with pay, leave without pay, leave of absence and so on.
 For the purpose of leave, “year” shall mean the calendar year commencing from 1st January to 31st December.
-
 ## Paid Leave
 Paid leave is any kind of time that is taken off of work WITH pay. 
 ## Maternity Leave
@@ -15,7 +15,6 @@ A period of absence from work granted to a father after or shortly before the bi
 -  Bereavement leave is paid leave which is available to an employee at the time of death or funeral of a member of the employee’s family.
 ## Compensatory Leave Off
 Compensatory leave off is taken as a leave, for working on any of the national/festival/declared off day as per Company's request.
-
 ## Policy and Procedures
 - Leave cannot be claimed as a matter of right. Any kind of leave can be granted or refused depending upon the business demands. 
 - The calendar year for leave is from January to December.
@@ -30,7 +29,6 @@ Compensatory leave off is taken as a leave, for working on any of the national/f
 -  If an employee have the adequate leave balance, Employees are allowed to take planned leaves not more than 15 consecutive day with prior notice to the reporting manager.
 - In case of any medical emergency, leaves or work from home shall be provided after getting approval from the manager.
 - Company reserves the right, at its discretion, to change, modify, suspend, or discontinue temporarily or permanently, all or part of the policy at any time. 
-
  ### Paid Leave 
 - Two paid leaves will be credited to each employee at the beginning of every month. In addition to two paid leaves, one extra bonus of one paid leave will also get credited in the month of January.
 - A new joining employee who have minimum of 20 working days in the joining month will be provided 2 paid leaves and employees who have minimum of 12 working days in the joining month will be allocated with one paid leave.
@@ -44,20 +42,16 @@ Compensatory leave off is taken as a leave, for working on any of the national/f
 - This benefit could be availed by women for a period extending up to a maximum of 8 weeks before the expected delivery date and the remaining time can be availed post childbirth. 
 - For women who are expecting after having 2 children, the duration of paid maternity leave shall be 12 weeks with full wages (i.e., 6 weeks pre and 6 weeks post expected date of delivery).
 - A women who legally adopts a child, below the age of three months or a commissioning mother, or a surrogate mother, shall be entitled to maternity benefit for a period of 12 weeks from the date child is handed over to the adopting mother or the commissioning mother, as the case may be. These leaves can be availed on when the child has actually started living with the parents.
-
 ### Paternity Leave
 - All regular male employees are eligible for paternity Leave.
 - A maximum of 5 continous days of paternity leave can be availed by an employee during the confinement of spouse.
 - The paternity leave must be taken within 15 days of child birth, failing which the leaves will lapse.
 - In case of adoption or surrogacy, employees can take leave upto 5 days and leave can be taken only if child is actually living with the parents.
-
 ### Bereavement Leave
 - A maximum of 3 days can be availed by the employee for the death of the employee’s immediate family. In addition to that, an employee shall be entitled to use two 2 days of sick leave as bereavement leave.
-
  ### Compensatory Leave Off
 - An employee is eligible for compensatory leave off, when he/she has worked on on any of the national/festival/declared off day after getting approval from manager. 
 - Compensatory leave off will be added along with balance leaves available for the employee.
-
 ### Leave Encashment
 - Leave balance is encashed at the end of every calendar year.
 - Leave encashing are only eligible for the employees who have a leave balance of more than 12 at the end of calendar year. 
@@ -66,7 +60,6 @@ Compensatory leave off is taken as a leave, for working on any of the national/f
 - 2% of the basic monthly pay(excluding bonus pay) to a maximum of Rs 1,000/- whichever is lower will be paid to an employee for each leave that can be encashed.
 - Once an employee enters in to notice period, all leave balances are revoked and they become ineligible for any leave encashment for the respective calendar year.
 - Once an employee is terminated, all leave balances are revoked and they become ineligible for any leave encashment for the respective calendar year. 
-
 ### Leaves during notice period
 - Employees are not allowed to take any leaves during notice period.
 - In case of any emergency, employees shall take leave after getting approval from their manager.
