@@ -1,24 +1,23 @@
 #Neoito Technologies Private Limited.
-
-# Leave Policy
-## Objective
+## Leave Policy
+### Objective
  The objective of the leave policy is to give provision to the employees to balance their personal as well as professional life.This leave policy is also meant to fulfill the statutory requirement regarding leave and holidays. 
-## Purpose
+### Purpose
 The purpose of leave policy for employees is to lay guidelines regarding when to avail leave and the process to take leave with pay, leave without pay, leave of absence and so on.
 For the purpose of leave, “year” shall mean the calendar year commencing from 1st January to 31st December.
 
-## Paid Leave
+###Paid Leave
 Paid leave is any kind of time that is taken off of work WITH pay. 
-## Maternity Leave
+### Maternity Leave
 A period of approved absence for a female employee granted for the purpose of giving birth and taking care of infant.
-## Paternity Leave
+### Paternity Leave
 A period of absence from work granted to a father after or shortly before the birth of his child.
-## Bereavement Leave
+### Bereavement Leave
 -  Bereavement leave is paid leave which is available to an employee at the time of death or funeral of a member of the employee’s family.
-## Compensatory Leave Off
+### Compensatory Leave Off
 Compensatory leave off is taken as a leave, for working on any of the national/festival/declared off day as per Company's request.
 
-## Policy and Procedures
+### Policy and Procedures
 - Leave cannot be claimed as a matter of right. Any kind of leave can be granted or refused depending upon the business demands. 
 - The calendar year for leave is from January to December.
 - In case of emergency, when leave cannot be applied in advance, telephonic intimation to the reporting manager should be done.
